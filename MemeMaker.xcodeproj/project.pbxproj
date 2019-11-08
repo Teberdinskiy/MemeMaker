@@ -13,6 +13,7 @@
 		9849819223719D3A00235E34 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9849819023719D3A00235E34 /* Main.storyboard */; };
 		9849819423719D3E00235E34 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9849819323719D3E00235E34 /* Assets.xcassets */; };
 		9849819723719D3E00235E34 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9849819523719D3E00235E34 /* LaunchScreen.storyboard */; };
+		9849819F2371A88B00235E34 /* CaptionChoice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9849819E2371A88B00235E34 /* CaptionChoice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9849819323719D3E00235E34 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9849819623719D3E00235E34 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9849819823719D3E00235E34 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9849819E2371A88B00235E34 /* CaptionChoice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptionChoice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				9849818C23719D3A00235E34 /* SceneDelegate.swift */,
 				9849818E23719D3A00235E34 /* ViewController.swift */,
 				9849819023719D3A00235E34 /* Main.storyboard */,
+				9849819E2371A88B00235E34 /* CaptionChoice.swift */,
 				9849819323719D3E00235E34 /* Assets.xcassets */,
 				9849819523719D3E00235E34 /* LaunchScreen.storyboard */,
 				9849819823719D3E00235E34 /* Info.plist */,
@@ -141,6 +144,7 @@
 				9849818F23719D3A00235E34 /* ViewController.swift in Sources */,
 				9849818B23719D3A00235E34 /* AppDelegate.swift in Sources */,
 				9849818D23719D3A00235E34 /* SceneDelegate.swift in Sources */,
+				9849819F2371A88B00235E34 /* CaptionChoice.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
